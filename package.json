@@ -1,0 +1,15 @@
+{
+  "name": "pruebas-tecnicas",
+  "version": "1.0.0",
+  "description": "pruebas para ejercicios de logica",
+  "main": "ejercicio2.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "diego beristain",
+  "license": "ISC",
+  "devDependencies": {
+    "instal": "^0.0.1-security",
+    "jest": "^29.7.0"
+  }
+}
